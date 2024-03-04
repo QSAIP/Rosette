@@ -1,0 +1,2 @@
+# Rosette
+Discord Chatbot 
